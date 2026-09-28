@@ -4,3 +4,7 @@
 # 如果你用的是 C#/.NET 项目，通常还要加上这些
 bin/
 obj/
+
+.idea/
+__pycache__/
+*.pyc
